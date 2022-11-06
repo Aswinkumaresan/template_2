@@ -1,0 +1,28 @@
+ .backgroud_image{
+	
+    background-image: url(../assets/image.jpg);
+    
+    height: 600px;
+    background-position: center;
+} 
+.back_text{
+	padding: 180px 140px 23px 238px;
+}
+.back_text h3{
+	font-size:30px;
+	color:#14427f;
+	font-family: system-ui;
+}
+.back_text p{
+	font-size:19px;
+	color:#a7a59e;
+}
+.back_text a{
+	background-color: #3b51e1;
+    padding: 10px 34px;
+    font-weight: 600;
+    color: white;
+    border-radius: 9px;
+    text-decoration: none;
+}
+
